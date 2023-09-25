@@ -12,7 +12,7 @@ time = 11.8--> litres = 5
 
 */
 
-export const litres = (time) => {
+export const litres = time => {
   const litresPerHour = 0.5
 
   return Math.floor(time * litresPerHour)
