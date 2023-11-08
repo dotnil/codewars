@@ -8,8 +8,6 @@ I've written five functions. Each function receives a parameter arr which is an 
     3. getLast(arr)      should return the last element of arr
     4. pushElement(arr)  should push an element to arr, and then return arr
     5. popElement(arr)   should pop an element from arr, and then return arr
-
-When you have finished the work, click "Run Tests" to see if your code is working properly.
 */
 
 export const getLength = arr => arr.length
